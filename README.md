@@ -1,9 +1,5 @@
 # Hi there, I'm Nipun Borji👋
 
-## 📱 Contact
-- 📧 borjinipun@gmail.com
-- 
-## 🚀 About Me
 Results-driven Data Specialist with expertise in AI, Machine Learning, and Data Analytics, optimizing aviation data management and eCommerce platforms. Proven ability to lead teams, develop ML models, and enhance data accuracy, improving efficiency by up to 30%. Passionate about leveraging LLMs, RAG, and prompt engineering to drive innovation in AI-powered solutions.
 
 ## 🛠️ Skills & Technologies
