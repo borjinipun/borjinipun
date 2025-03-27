@@ -1,6 +1,7 @@
 # Hi there, I'm Nipun Borji👋
 
-Results-driven Data Specialist with expertise in AI, Machine Learning, and Data Analytics, optimizing aviation data management and eCommerce platforms. Proven ability to lead teams, develop ML models, and enhance data accuracy, improving efficiency by up to 30%. Passionate about leveraging LLMs, RAG, and prompt engineering to drive innovation in AI-powered solutions.
+AI & Data Specialist | ML & Analytics | Aviation & eCommerce
+Optimizing aviation data management and eCommerce platforms with AI, ML, and data analytics. Experienced in developing ML models, enhancing data accuracy, and improving efficiency by 30%. Passionate about LLMs, RAG, and prompt engineering to drive AI innovation.
 
 ## 🛠️ Skills & Technologies
 
