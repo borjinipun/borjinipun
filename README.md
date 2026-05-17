@@ -26,8 +26,6 @@ I work on ML/AI tools, agentic systems, and web automation. My public projects c
 - [pre-owned-car-pdi](https://github.com/borjinipun/pre-owned-car-pdi) — "An interactive, foolproof digital co-pilot app that guides car buyers through the Pre-Delivery Inspection (PDI) process step-by-step" (JavaScript).
 - [LiveTranslate-Offline-AI-Translation](https://github.com/borjinipun/LiveTranslate-Offline-AI-Translation) — offline AI translation prototype (JavaScript).
 
-(There are additional repos — see your profile link below for the full list.)
-
 ---
 
 ## Skills (inferred from your public repos)
@@ -47,12 +45,5 @@ If you'd like different skills emphasized (e.g., backend, infra, frontend, data 
 
 ---
 
-## GitHub Stats
-![borjinipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=borjinipun&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjinipun&layout=compact)
-
----
-
 ## Contact & Links
 - GitHub: https://github.com/borjinipun
-(Please tell me any other links you want included: LinkedIn, Twitter/X, email, website, Mastodon, etc.)
