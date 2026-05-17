@@ -17,7 +17,6 @@ I work on ML/AI tools, agentic systems, and web automation. My public projects c
 ---
 
 ## Featured Projects
-(Click a repo name to open it)
 
 - [AeroBid](https://github.com/borjinipun/AeroBid) — "AeroBid will assist you to create RFP (Request for Proposal) using query on local documents" (Python).
 - [agentic_ai](https://github.com/borjinipun/agentic_ai) — "This Repo will be use to build agentic ai solution using multiple frameworks" (Jupyter Notebook).
