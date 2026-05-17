@@ -1,44 +1,58 @@
-# Hi there, I'm Nipun Borji👋
+# Hi, I'm borjinipun 👋
 
-AI & Data Specialist | ML & Analytics | Aviation & eCommerce
-Optimizing aviation data management and eCommerce platforms with AI, ML, and data analytics. Experienced in developing ML models, enhancing data accuracy, and improving efficiency by 30%. Passionate about LLMs, RAG, and prompt engineering to drive AI innovation.
+> Exploring AI agents, RAG, ML pipelines, and practical web automation — building tools that help people get work done.
 
-## 🛠️ Skills & Technologies
-
-### Programming & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Generative AI & NLP
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-
-### ML & AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 🚀 Projects
-
-### Response Generation System for Customer Service
-Designed a Retrieval-Augmented Generation (RAG) system leveraging years of historical question-response data to assist analysts in handling customer queries. Implemented retrieval mechanisms and generative models using NLP techniques to deliver precise, context-aware responses. The solution enhanced query resolution efficiency and consistency.
-
-### eCommerce Recommendation System
-Developed a personalized recommendation engine that analyzes user behavior and product attributes to suggest relevant items. Implemented collaborative filtering and content-based approaches to improve shopping experience and conversion rates.
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/borjinipun?label=Follow&style=social)](https://github.com/borjinipun)
+[![Top Langs](https://img.shields.io/badge/top%20langs-Python%20%7C%20JavaScript-lightgrey?style=for-the-badge)](#skills)
 
 ---
-📌 *Open to collaboration and new opportunities in AI and Data Science*
+
+## About Me
+I work on ML/AI tools, agentic systems, and web automation. My public projects cover RAG/LLM agents, MLops experiments, data-driven assistants, and small web apps. I like turning prototypes into reliable developer-facing tools.
+
+- 🔭 Current focus: agentic AI, retrieval-augmented systems (RAG), and MLops workflows.
+- 🌱 Learning and experimenting with LLM toolchains, offline translation models, and production-ready ML pipelines.
+- 💬 Ask me about: building LLM agents, RAG chat apps, ML prototyping, and lightweight automation.
+
+---
+
+## Featured Projects
+(Click a repo name to open it)
+
+- [AeroBid](https://github.com/borjinipun/AeroBid) — "AeroBid will assist you to create RFP (Request for Proposal) using query on local documents" (Python).
+- [agentic_ai](https://github.com/borjinipun/agentic_ai) — "This Repo will be use to build agentic ai solution using multiple frameworks" (Jupyter Notebook).
+- [WebConnectedAgent](https://github.com/borjinipun/WebConnectedAgent) — "A Python-based research assistant for Dutch government organizations that leverages multiple data sources to answer questions about AI implementation policies and regulations." (Python).
+- [event-watcher](https://github.com/borjinipun/event-watcher) — "MVP that polls the target page (headless if needed), detects a new data, writes an event to a queue, and dispatches SMS/webhook/email to subscribers" (Python).
+- [pre-owned-car-pdi](https://github.com/borjinipun/pre-owned-car-pdi) — "An interactive, foolproof digital co-pilot app that guides car buyers through the Pre-Delivery Inspection (PDI) process step-by-step" (JavaScript).
+- [LiveTranslate-Offline-AI-Translation](https://github.com/borjinipun/LiveTranslate-Offline-AI-Translation) — offline AI translation prototype (JavaScript).
+
+(There are additional repos — see your profile link below for the full list.)
+
+---
+
+## Skills (inferred from your public repos)
+- Languages: Python · JavaScript · Jupyter Notebooks
+- Areas: LLM agents · Retrieval Augmented Generation (RAG) · ML / MLops · Web automation & scraping · Prototyping & POCs
+
+If you'd like different skills emphasized (e.g., backend, infra, frontend, data engineering), tell me which top 6 to highlight.
+
+---
+
+## Projects & Research Highlights
+- RAG / LLM agent prototypes (agentic_ai, webllm-rag-chat, WebConnectedAgent)
+- Domain assistants & document querying (AeroBid, WebConnectedAgent)
+- MLops and model experiments (Credit-Card-Default, drug_classify_mlops)
+- Practical automation / monitoring tools (event-watcher, EdgeAudit)
+- Offline/edge translation and client-side AI demos (LiveTranslate-Offline-AI-Translation, fretboard-ai)
+
+---
+
+## GitHub Stats
+![borjinipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=borjinipun&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borjinipun&layout=compact)
+
+---
+
+## Contact & Links
+- GitHub: https://github.com/borjinipun
+(Please tell me any other links you want included: LinkedIn, Twitter/X, email, website, Mastodon, etc.)
